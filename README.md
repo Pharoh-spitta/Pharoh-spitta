@@ -5,6 +5,6 @@
 - 📫 just write me here if you trying to reach me 
 
 <!---
-Pharoh-spitta/Pharoh-spitta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Maleke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
